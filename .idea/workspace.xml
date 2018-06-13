@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63c79de2-c8e8-4a8e-8c28-bc8c38093930" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/phone_app.html" afterPath="$PROJECT_DIR$/index-template.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/landing-page.css" afterPath="$PROJECT_DIR$/assets/css/landing-page.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/awesome-landing-page.js" afterPath="$PROJECT_DIR$/assets/js/awesome-landing-page.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web_app.html" afterPath="$PROJECT_DIR$/web_app.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="57" column="49" lean-forward="false" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+            <state relative-caret-position="575">
+              <caret line="292" column="59" lean-forward="false" selection-start-line="292" selection-start-column="59" selection-end-line="292" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#sup#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#sup#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -38,23 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="awesome-landing-page.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/awesome-landing-page.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="landing-page.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/landing-page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="1189" column="23" lean-forward="false" selection-start-line="1189" selection-start-column="23" selection-end-line="1189" selection-end-column="23" />
+            <state relative-caret-position="722">
+              <caret line="1752" column="13" lean-forward="false" selection-start-line="1752" selection-start-column="13" selection-end-line="1752" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -168,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528908156107</updated>
-      <workItem from="1528908164252" duration="7893000" />
+      <workItem from="1528908164252" duration="9775000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7893000" />
+    <option name="totallyTimeSpent" value="9775000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="23" width="1653" height="970" extended-state="0" />
@@ -220,16 +204,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/landing-page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="1189" column="23" lean-forward="false" selection-start-line="1189" selection-start-column="23" selection-end-line="1189" selection-end-column="23" />
+        <state relative-caret-position="722">
+          <caret line="1752" column="13" lean-forward="false" selection-start-line="1752" selection-start-column="13" selection-end-line="1752" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="57" column="49" lean-forward="false" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        <state relative-caret-position="575">
+          <caret line="292" column="59" lean-forward="false" selection-start-line="292" selection-start-column="59" selection-end-line="292" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#sup#0;n#div#1;n#div#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#sup#0;n#h5#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />

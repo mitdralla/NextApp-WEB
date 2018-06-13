@@ -875,8 +875,8 @@ a:focus, a:active {
 }
 
  .header-text{
-      text-transform: uppercase;
-      font-weight: 200;
+      /*text-transform: uppercase;*/
+      font-weight: 400;
       color: #333;
       margin-bottom: 20px;
       font-size: 30px;
@@ -1120,7 +1120,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     position: relative;
     overflow: hidden;
     width: 100%;
-    height: 600px;
+    height: 300px;
     text-align: center;
    }
  
@@ -1133,7 +1133,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     -o-transform:      translateX(-50%);
     transform:         translateX(-50%);
     z-index: 20;
-    top: 150px;
+    top: 50px;
 
   }
   .landing-page .section-no-padding .parallax .info h1{
@@ -1148,7 +1148,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     }
 
    .landing-page .section-no-padding .parallax .info .btn-lg{
-    margin-top: 75px;
+    margin-top: 25px;
     padding: 14px 80px;
    }
 
@@ -1718,4 +1718,38 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   width: 291px;
   height: 342px;
   float:left;
+}
+
+.landing-page .section-features .card p {
+  font-size: 18px;
+  line-height: 24px;
+  color: #464646;
+}
+
+.landing-page .section-features .card h4 {
+  font-weight: 500;
+}
+
+.landing-page .section p {
+  margin-top: 30px;
+  line-height: 32px;
+  font-size: 21px;
+  font-weight: 200;
+}
+
+.landing-page .parallax .description h5 {
+  line-height: 1.4;
+  font-weight: 400;
+  text-shadow: 0 1px 5px rgba(0,0,0,0.5);
+  font-size: 21px;
+}
+
+.landing-page .parallax .description {
+  margin-top: 125px;
+  color: white;
+  padding: 5px;
+}
+
+.card:hover {
+  background-color: #f9f9f9;
 }
