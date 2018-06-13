@@ -25,6 +25,23 @@
                 }
             }
 
+
+            var $canvas;
+
+            $(function(){
+                $canvas=$("div.canvas")
+                setInterval(scroll, 3000);
+            });
+
+            function scroll(){
+                if ($canvas.position().left!=-1195){
+                    $canvas.animate({left: "-=291"});
+                }else{
+                    $canvas.animate({left: 0});
+                }
+            }
+
+
         });
 
         $(window).on('scroll', function() {
@@ -111,3 +128,4 @@
 
             return ((elemTop < viewportBottom) && (elemBottom > viewportTop));
         }
+

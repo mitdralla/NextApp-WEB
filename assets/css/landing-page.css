@@ -439,6 +439,12 @@ a:focus, a:active {
   padding: 20px 15px;
   font-size: 20px;
 }
+
+.brand {
+  margin-top:13px !important;
+  width: auto !important;
+}
+
 .navbar .navbar-nav > li > a {
   padding: 10px 15px;
   margin: 15px 3px;
@@ -838,7 +844,7 @@ a:focus, a:active {
 .logo-container .logo{
     overflow: hidden;
     border-radius: 50%;
-    border: 1px solid #333333;
+    /*border: 1px solid #333333;*/
     width: 50px; 
     float: left;
 }
@@ -1181,7 +1187,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
    .landing-page .section-features .card{
         width: 100%;
-        min-height: 390px;
+        min-height: 240px;
         padding: 10px 30px;
         border: 1px solid #DDDDDD;
         border-radius: 10px;
@@ -1693,4 +1699,23 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     .landing-page .navbar-top{
         padding-top: 10px;
     }
+}
+
+.mask {
+  position: absolute;
+  left: 34px;
+  top: 99px;
+  width: 292px;
+  height: 405px;
+  overflow: hidden;
+}
+.canvas {
+  position: relative;
+  width: 2195px;
+  height: 342px;
+}
+.page {
+  width: 291px;
+  height: 342px;
+  float:left;
 }
