@@ -1711,7 +1711,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 }
 .canvas {
   position: relative;
-  width: 2195px;
+  width: 4195px;
   height: 342px;
 }
 .page {
@@ -1752,4 +1752,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
 
 .card:hover {
   background-color: #f9f9f9;
+}
+
+.filter-gradient:after {
+  opacity: .9;
 }
